@@ -92,7 +92,7 @@ n = 6000
 sigma = 1.0
 mu_nonzero_mean = 0.0
 mu_nonzero_std = 4.70
-n_repeats = 600
+n_repeats = 1000
 
 mse_fixed_vals=[]; mse_sure_vals=[]
 fdr_fixed_vals=[]; fdr_sure_vals=[]
